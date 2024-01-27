@@ -1,0 +1,39 @@
+.intro {
+    text-align: center;
+    color: gray;
+    letter-spacing: 0.05em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+    background-color: hsl(0, 0%, 97%);
+    width: 100%;
+    margin: 20px 0;
+    font-size: 16px;
+}
+
+.intro-text {
+    margin: 20px auto;
+    width: 75%;
+    padding-bottom: 20px;
+}
+
+.intro-header {
+    padding-top: 20px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.book-button {
+    width: 201px;
+    height: 47px;
+    background-color: transparent;
+    border: 2px solid #000000;
+    color: gray;
+    font-size: 16px;
+}
+
+.book-button:hover {
+    background-color: hsl(91, 50%, 39%);
+    color: rgba(227, 223, 223, 0.997);
+    border: none;
+}
