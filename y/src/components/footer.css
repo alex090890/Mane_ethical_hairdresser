@@ -6,10 +6,17 @@
 }
 
 .footer-line1 {
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr 1fr 1fr;
-    justify-items:center;
+    justify-content: space-evenly;
+    width: 100%;
     color: rgba(128, 128, 128, 0.724);
+    flex-wrap: wrap;
+}
+
+.line-left, .line-middle, .line-right {
+    width: 25%;
+    margin-top: 10px;
 }
 
 .line1-right {
