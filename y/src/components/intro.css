@@ -36,4 +36,5 @@
     background-color: hsl(91, 50%, 39%);
     color: rgba(227, 223, 223, 0.997);
     border: none;
+    cursor: pointer;
 }
