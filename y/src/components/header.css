@@ -1,0 +1,48 @@
+
+.Navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(214, 207, 207)smoke;
+    padding: 15px 7%;
+    width: 100vw;
+  background: #ebebee;
+
+}
+
+.logo{
+    width: 250px;
+    cursor: pointer;
+
+}
+
+ul{
+    flex: none;
+    list-style: none;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    margin: 10px 50px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.bookingbtn{
+   padding: 6px;
+    align-items: center;
+    background-color:black;
+    border: 0;
+    outline: 0;
+    color: white;
+    font-size: 18px;
+    max-width: 150px;
+}
+.booking{
+    display: flex;
+    align-items: center;
+    background: #242424;
+    padding: 10px 20px;
+    border-radius: 50;
+}

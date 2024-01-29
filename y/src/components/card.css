@@ -1,0 +1,23 @@
+.card{
+    flex-direction: row;
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 50px;
+}       
+ .cardimg1{
+    width: 2000px;
+    height: 500px;
+    border: solid   1px;
+}
+.cardimg2{
+    width: 2000px;
+    height: 500px;
+    border: solid   1px;
+}
+.cardimg3{
+    width: 2000px;
+    height: 500px;
+    border: solid   1px;
+}
