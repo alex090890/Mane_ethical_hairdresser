@@ -11,8 +11,12 @@ function App() {
 
   return (
     <>
-      <TobBox />
-      <Card />
+    <div>
+    <TobBox />
+    </div>
+    <div>
+    <Card />
+    </div> 
       <Intro />
       <BigCard />
       <Footer />
