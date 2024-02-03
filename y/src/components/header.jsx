@@ -3,6 +3,7 @@ import './header.css';
 import logo from '../assets/logo.png';
 
 export default function TopBox() {
+
     return (
         <>
          <div className='Navbar'>
@@ -24,4 +25,5 @@ export default function TopBox() {
         </>
         
     );
+
 };

@@ -20,7 +20,6 @@ function App() {
       <Intro />
       <BigCard />
       <Footer />
-      
     </>
   )
 }
